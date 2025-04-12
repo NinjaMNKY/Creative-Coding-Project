@@ -1,0 +1,47 @@
+Media Citations:
+Ex: 
+1. "Chicken looking angry while standing" https://www.reddit.com/r/familyguy/comments/gczqyt/my_favourite_family_guy_character_is_ernie_the/
+removed backgrounf
+2. "Peter Griffin Looking happy with arms at side" https://scratchpad.fandom.com/wiki/Family_Guy/Characters/Gallery
+removed backgrounf
+3. "Peter Griffin looking happy with arms at waist" https://scratchpad.fandom.com/wiki/Family_Guy/Characters/Gallery
+removed backgrounf
+4. "Peter Griffen getting punched" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FPeter-Griffin-Inch-Photograph-Family%2Fdp%2FB07288XMX9&psig=AOvVaw0eOmV7pIcqN_idtsKMkrZ9&ust=1743890497014000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjWmsCwv4wDFQAAAAAdAAAAABAE
+removed background and made to png
+5. "Peter Griffens House" https://screenrant.com/family-guy-griffin-home-hidden-details/
+ made to png
+6. "Galaxy" https://1037theloon.com/the-final-griffin-chicken-fight-descends-into-true-family-guy-utter-chaos-this-sunday/
+removed background and made to png
+7. "Peter Griffin City Background" https://makeagif.com/gif/the-first-chicken-fight-family-guy-tbs-4hA7il
+removed background and made to png
+8. "Chicken punching" https://www.pinterest.com/pin/how-to-draw-ernie-the-giant-chicken-step-by-step-drawing-tutorials--623185667181209861/
+removed background and made to png
+9. "Peter Griffin punching" https://co.pinterest.com/pin/720294534186082802/
+removed background and made to png
+10. "Chicken getting punched" https://www.pinterest.com/pin/how-to-draw-ernie-the-giant-chicken-step-by-step-drawing-tutorials--623185667181209861/
+removed background and made to png
+11. "Peter Griffin punching the Giant Chicken" https://www.instructables.com/Family-Guy-Automata-1/
+removed background and made to png
+Removed the background and split the images into 2 
+12. "Peter griffin laugh" https://www.myinstants.com/en/instant/peter-griffing-hehe-5311/?utm_source=copy&utm_medium=share#google_vignette
+Converted MP3 into WAV
+13. "Fight music" https://www.youtube.com/watch?v=_fjCta5GwUg&list=PLh_7E-THkv2N9S1OpW-ALfCpY7r5zg9N4 
+Shortened the audio and converted MP3 to WAV
+14. "punch 1" https://www.myinstants.com/en/instant/punch1/
+covnerted MP3 to WAV
+15. "chickenscream" https://www.youtube.com/watch?v=orX7DG1XLZQ
+downloaded and converted MP3 to WAV
+16. "ChickenPunching" https://sketchok.com/cartoon-characters/family-guy/how-to-draw-ernie-the-giant-chicken/
+removed background
+17. "Knock out effect" https://steamcommunity.com/sharedfiles/filedetails/?id=598223477
+removed background
+18. "knock out sound" https://www.myinstants.com/en/instant/game-super-smash-bros-59709/
+MP3 to WAV
+19. "Peter Kicking" https://www.youtube.com/watch?v=YBLX4CQULHw
+Removed background 
+
+
+
+AI citations:
+Ex: 
+ChatGPT: Helped debugg endless for loops and while loops   
